@@ -7,7 +7,7 @@
 
 **Dictionary**
 
-<br> </br>Short description of the remaining notebooks
+Short description of the remaining notebooks
 
-* CreateDB notebook - details the ETL process from csv files to SQLite database
-* Sample EDA - preliminary EDA work on the first week of April
+* CreateDB notebook: details the ETL process from csv files to SQLite database
+* Sample EDA: preliminary EDA work on the first week of April
