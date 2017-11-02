@@ -2,7 +2,7 @@
 
 **Suggested Reading Order**
 
-1. Full EDA notebook details the complete analysis on the April 2013 taxicab data including data munging and visualization.
+1. Full EDA notebook details complete analysis on the April 2013 data including munging and visualization.
 2. Modeling notebook details my effort in predicting taxi fare given pickup and dropoff co-ordinates.
 
 **Dictionary**
