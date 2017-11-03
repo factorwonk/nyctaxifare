@@ -2,8 +2,8 @@
 
 **Suggested Reading Order**
 
-1. Full EDA notebook details complete analysis on the April 2013 data including munging and visualization.
-2. Modeling notebook details my effort in predicting taxi fare given pickup and dropoff co-ordinates.
+1. data_munging_analysis notebook details complete analysis on the April 2013 data.
+2. fare_modeling notebook details my effort in predicting taxi fare given pickup and dropoff co-ordinates
 
 **Dictionary**
 
