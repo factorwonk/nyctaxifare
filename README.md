@@ -1,6 +1,6 @@
 # NYC Taxi Data Analysis Repository by Abhishek Das
 
-PDF of presentation [here](/ADasTaxiNYC.pdf)
+PDF of presentation [here](https://factorwonk.github.io/ADasTaxiNYC.pdf)
 
 ## Principal Notebooks
 
