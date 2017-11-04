@@ -1,5 +1,7 @@
 # NYC Taxi Data Analysis Repository by Abhishek Das
 
+Presentation [Here](https://github.com/factorwonk/factorwonk.github.io/blob/master/ADasTaxiNYC.pptx)
+
 ## Principal Notebooks
 
 1. The *nyctaxi_trips_data_analysis* notebook details my EDA on the April 2013 data.
