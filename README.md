@@ -2,7 +2,7 @@
 
 PDF of presentation [here](https://factorwonk.github.io/ADasTaxiNYC.pdf)
 
-Powerpoint [here](https://factorwonk.github.io/ADasTaxiNYC.pptx)
+Powerpoint slides [here](https://factorwonk.github.io/ADasTaxiNYC.pptx)
 
 ## Principal Notebooks
 
