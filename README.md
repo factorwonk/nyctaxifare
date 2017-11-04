@@ -1,14 +1,11 @@
 # NYC Taxi Data Analysis Repository by Abhishek Das
 
-**Suggested Reading Order**
+## Principal Notebooks
 
-1. The *nyctaxi_trips_data_munging_analysis* notebook details my EDA on the April 2013 data.
-2. The *nyctaxi_fare_modeling* notebook details my efforts to predict taxi fare given pickup and dropoff co-ordinates
-3. The *nyctaxi_tips_modeling* notebook describes the model I use to predict tips
+1. The *nyctaxi_trips_data_analysis* notebook details my EDA on the April 2013 data.
+2. The *nyctaxi_fare_modeling* notebook details my efforts to predict taxi fare amount and tip amounts
 
-**Dictionary**
+## Additional Notebooks
 
-Short description of remaining notebooks
-
-* CreateDB notebook: details the ETL process from csv files to SQLite database
-* Sample EDA: preliminary EDA work on the first week of April
+1. The *nyctaxi_createdb* notebook details the extraction, transformation and loadin process
+2. The *nyctaxi_trips_data_munging* notebook details the data cleaning process
