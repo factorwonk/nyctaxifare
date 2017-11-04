@@ -9,7 +9,7 @@
 
 1. The *nyctaxi_createdb* notebook details the extraction, transformation and loadin process
 2. The *nyctaxi_trips_data_munging* notebook details the data cleaning process
-3. Tableau Workbooks folder includes excel spreadsheets used for map data
+3. *TableauWorkbooks* folder includes excel spreadsheets used for map data
 
 ## Presentation
 
