@@ -15,5 +15,5 @@
 
 ## Presentation
 
-1. PDF of the presentation is [here](https://factorwonk.github.io/ADasTaxiNYC.pdf)
-2. Powerpoint slides are [here](https://factorwonk.github.io/ADasTaxiNYC.pptx)
+1. PDF of the presentation is [here](https://factorwonk.github.io/ADasTaxiNYC_updated.pdf)
+2. Powerpoint slides are [here](https://factorwonk.github.io/ADasTaxiNYC_updated.pptx)
