@@ -9,7 +9,7 @@
 
 ## Updated Notebooks
 
-5. The *nyctaxi_trips_data_analysis_updated.ipynb* is an updated version of 1 to reflect reviewer comments
+5. The *nyctaxi_trips_data_analysis_updated.ipynb* is an updated version of **1** to reflect reviewer comments
 
 ## Supplementary Notebooks
 
