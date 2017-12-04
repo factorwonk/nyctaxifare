@@ -7,11 +7,15 @@
 3. The *nyctaxi_tip_prediction* notebook covers my model to predict tip percentage
 4. The *nyc_taxi_max_earnings* notebook covers the analysis behind the remaining open questions
 
+## Updated Notebooks
+
+5. The *nyctaxi_trips_data_analysis_updated.ipynb* is an updated version of 1 to reflect reviewer comments
+
 ## Supplementary Notebooks
 
-5. The *nyctaxi_createdb* notebook details the extraction, transformation and loadin process
-6. The *nyctaxi_trips_data_munging* notebook details the data cleaning process
-7. *TableauWorkbooks* folder includes excel spreadsheets used for map data
+6. The *nyctaxi_createdb* notebook details the extraction, transformation and loadin process
+7. The *nyctaxi_trips_data_munging* notebook details the data cleaning process
+8. *TableauWorkbooks* folder includes excel spreadsheets used for map data
 
 ## Presentation
 
