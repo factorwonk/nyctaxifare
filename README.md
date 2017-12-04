@@ -10,12 +10,13 @@
 ## Updated Notebooks
 
 5. The *nyctaxi_trips_data_analysis_updated.ipynb* is an updated version of **1** to reflect reviewer comments
+6. The *nyctaxi_fare_modeling_updated.ipynb* is an updated version of **2** to reflect reviewer comments
 
 ## Supplementary Notebooks
 
-6. The *nyctaxi_createdb* notebook details the extraction, transformation and loadin process
-7. The *nyctaxi_trips_data_munging* notebook details the data cleaning process
-8. *TableauWorkbooks* folder includes excel spreadsheets used for map data
+7. The *nyctaxi_createdb* notebook details the extraction, transformation and loadin process
+8. The *nyctaxi_trips_data_munging* notebook details the data cleaning process
+9. *TableauWorkbooks* folder includes excel spreadsheets used for map data
 
 ## Presentation
 
