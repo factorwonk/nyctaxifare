@@ -15,9 +15,9 @@
 
 ## Supplementary Notebooks
 
-7. The *nyctaxi_createdb* notebook details the extraction, transformation and loadin process
-8. The *nyctaxi_trips_data_munging* notebook details the data cleaning process
-9. *TableauWorkbooks* folder includes excel spreadsheets used for map data
+8. The *nyctaxi_createdb* notebook details the extraction, transformation and loadin process
+9. The *nyctaxi_trips_data_munging* notebook details the data cleaning process
+10. The *TableauWorkbooks* folder includes excel spreadsheets used for map data
 
 ## Presentation
 
