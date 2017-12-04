@@ -11,6 +11,7 @@
 
 5. The *nyctaxi_trips_data_analysis_updated.ipynb* is an updated version of **1** to reflect reviewer comments
 6. The *nyctaxi_fare_modeling_updated.ipynb* is an updated version of **2** to reflect reviewer comments
+7. The *nyctaxi_tip_prediction_updated.ipynb* is an updated version of **3** to correct an error in the original workbook
 
 ## Supplementary Notebooks
 
